@@ -48,6 +48,8 @@
   font-family: Cairo;
   font-size: 1.275rem;
   margin: 20px 0 0;
+  direction: rtl;
+ 
 }
 
 .u-section-1 .u-layout-cell-2 {
